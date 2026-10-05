@@ -65,3 +65,12 @@ env/
 
 *.tmp
 *.temp
+# Python virtual environment
+ai-service/venv/
+ai-service/__pycache__/
+*.pyc
+
+# Test files
+ai-service/sample.pdf
+ai-service/sample_ocr.png
+ai-service/sample_ocr.jpg
